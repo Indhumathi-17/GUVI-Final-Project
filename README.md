@@ -1,4 +1,5 @@
-# GUVI-Final-Project
+#  E-Commerce Segmentation 
+## Guvi Final Project
 It is the Final Project from GUVI which contains 2 projects, Customer conversion prediction, and E-Commerce Segmentation
 # 1st Project: Customer Conversion Prediction for Insurance Company
 ## Problem statement
